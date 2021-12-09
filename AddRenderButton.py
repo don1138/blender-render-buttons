@@ -16,7 +16,7 @@
 #
 # ##### END GPL LICENSE BLOCK #####
 
-# Shamelessly adapted from "Blender 2.80 Render Buttons", created by Mitsuma and modified by Olaf Haag.
+# Shamelessly adapted from "Blender 2.80 Render Buttons", created by Mitsuma and modified by Olaf Haag
 # Updated to be compatable with Blende 3.0
 
 bl_info = {
