@@ -17,7 +17,7 @@
 # ##### END GPL LICENSE BLOCK #####
 
 # Shamelessly adapted from "Blender 2.80 Render Buttons", created by Mitsuma and modified by Olaf Haag
-# Updated to be compatable with Blende 3.0
+# Updated to be compatable with Blender 3.0
 
 bl_info = {
 	"name"       : "Render Buttons",
@@ -27,7 +27,7 @@ bl_info = {
 	"location"   : "Properties > Render Properties > Render",
 	"description": "Quick Access to Render Controls",
 	"warning"    : "",
-	"wiki_url"   : "",
+	"doc_url"   : "https://github.com/don1138/blender-render-buttons",
 	"tracker_url": "",
 	"category"   : "Render"}
 
